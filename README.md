@@ -7,7 +7,7 @@
 - 👨‍💻 A front-end development engineer.
 - 💻 Blog: [easonLiu的数字花园](https://www.yuque.com/easonliu-rl8as) 
 - ✉️ Email: `3289595084@qq.com`
-- 💬 WeChat: front-end-dev-eason
+- 💬 WeChat: `front-end-dev-eason`
 
 ### Work Experience
 - 👨‍💻 2022.06 ~ 2022.08 Beisen--产研资源部--数字人才前端组 in Beijing
