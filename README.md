@@ -6,7 +6,7 @@
 - 👋 Graduates of 2023.
 - 👨‍💻 A front-end development engineer.
 - 💻 Blog: [easonLiu的数字花园](https://www.yuque.com/easonliu-rl8as) 
-- ✉️ Email: 3289595084@qq.com
+- ✉️ Email: `3289595084@qq.com`
 - 💬 WeChat: front-end-dev-eason
 
 ### Work Experience
