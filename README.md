@@ -19,4 +19,4 @@
 
 
 
-<!-- ![ljr0425's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljr0425&count_private=true) -->
+<!-- ![ljr0425's GitHub status](https://github-readme-stats.vercel.app/api?username=ljr0425&count_private=true) -->
