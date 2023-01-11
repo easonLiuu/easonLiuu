@@ -1,4 +1,4 @@
-## 👋 Welcome to ljr0425's Github 
+## 👋 Welcome to my Github!
 
 ### About Me
 - 🙋 I'm easonLiu.
