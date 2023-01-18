@@ -15,7 +15,7 @@
 - 👨‍💻 2022.12-now Baidu-MEG in Beijing
 
 ### Github Stats
-![ljr0425's GitHub status](https://github-readme-stats.vercel.app/api?username=ljr0425&show_icons=true&PAT_1=12)![ljr0425's Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljr0425&layout=compact&hide_border=true&langs_count=10&PAT_1=12) 
+![ljr0425's GitHub status](https://github-readme-stats.vercel.app/api?username=ljr0425&show_icons=true&env=12)![ljr0425's Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljr0425&layout=compact&hide_border=true&langs_count=10&env=12) 
 
 
 
