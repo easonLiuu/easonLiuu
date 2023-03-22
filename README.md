@@ -10,9 +10,9 @@
 - 💬 WeChat: `front-end-dev-eason`
 
 ### Work Experience
-- 👨‍💻 2022.06-2022.08 Beisen-产研资源部 in Beijing
-- 👨‍💻 2022.09-2022.11 momenta-MSD in Suzhou
-- 👨‍💻 2022.12-now Baidu-MEG in Beijing
+- 👨‍💻 2022.06-2022.08 Beisen in Beijing
+- 👨‍💻 2022.08-2022.11 momenta in Suzhou
+- 👨‍💻 2022.12-now Baidu in Beijing
 
 ### Github Stats
 ![easonLiuu's GitHub status](https://github-readme-stats.vercel.app/api?username=easonLiuu&show_icons=true)![easonLiuu's Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=easonLiuu&layout=compact&hide_border=true&langs_count=10) 
