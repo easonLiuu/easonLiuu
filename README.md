@@ -2,12 +2,12 @@
 
 ### About Me
 - 🙋 I'm easonLiu.
-- 👨‍🎓 A student of China University of Petroleum.
-- 👋 Graduates of 2023.
+- 👨‍🎓 Graduated from China University of Petroleum in 2023.
 - 👨‍💻 A front-end development engineer.
-- 💻 Blog: [我的数字花园](https://www.yuque.com/easonliu-rl8as) 
+- 💻 Blog: [My Blog](https://www.yuque.com/easonliu-rl8as) 
 - ✉️ Email: `3289595084@qq.com`
 - 💬 WeChat: `front-end-dev-eason`
+- 👀 Want to learn C++, Golang and so on
 
 ### Work Experience
 - 👨‍💻 2022.06-2022.08 Beisen in Beijing
